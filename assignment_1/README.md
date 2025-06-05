@@ -1,8 +1,8 @@
 # Blockchain Arena(SoC 2025) - Assignment 1
 # p2p network visualisation
 
-**Name:** Vedant Bagde  
-**Roll No:** [Your Roll Number Here]
+**Name:** Vedant Umesh Bagde  
+**Roll No:** 23B1538
 
 ---
 
