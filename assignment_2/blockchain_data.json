@@ -1,0 +1,212 @@
+{
+  "blocks": {
+    "genesis": {
+      "miner_id": -1,
+      "timestamp": 0.0,
+      "size": 1024,
+      "num_transactions": 0,
+      "arrival_time": 0.0
+    },
+    "a39d3f20": {
+      "miner_id": 11,
+      "timestamp": 0.1,
+      "size": 2048,
+      "num_transactions": 1,
+      "arrival_time": 12.415591848804164
+    },
+    "0a8b4578": {
+      "miner_id": 8,
+      "timestamp": 12.86457557017842,
+      "size": 248832,
+      "num_transactions": 242,
+      "arrival_time": 138.689647730954
+    },
+    "6b8facdf": {
+      "miner_id": 3,
+      "timestamp": 139.00741155455142,
+      "size": 2584576,
+      "num_transactions": 2523,
+      "arrival_time": 460.8137118768497
+    },
+    "302f5b3e": {
+      "miner_id": 6,
+      "timestamp": 460.8201830265716,
+      "size": 6542336,
+      "num_transactions": 6388,
+      "arrival_time": 620.7647973759636
+    }
+  },
+  "edges": [
+    [
+      "genesis",
+      "a39d3f20"
+    ],
+    [
+      "a39d3f20",
+      "0a8b4578"
+    ],
+    [
+      "0a8b4578",
+      "6b8facdf"
+    ],
+    [
+      "6b8facdf",
+      "302f5b3e"
+    ]
+  ],
+  "longest_chain": [
+    "genesis",
+    "a39d3f20",
+    "0a8b4578",
+    "6b8facdf",
+    "302f5b3e"
+  ],
+  "statistics": {
+    "total_blocks_generated": {
+      "11": 1,
+      "8": 1,
+      "3": 1,
+      "6": 1,
+      "0": 0,
+      "1": 0,
+      "2": 0,
+      "4": 0,
+      "5": 0,
+      "7": 0,
+      "9": 0,
+      "10": 0,
+      "12": 0,
+      "13": 0,
+      "14": 0,
+      "15": 0,
+      "16": 0,
+      "17": 0,
+      "18": 0,
+      "19": 0
+    },
+    "blocks_in_longest_chain": {
+      "3": 1,
+      "6": 1,
+      "8": 1,
+      "11": 1,
+      "0": 0,
+      "1": 0,
+      "2": 0,
+      "4": 0,
+      "5": 0,
+      "7": 0,
+      "9": 0,
+      "10": 0,
+      "12": 0,
+      "13": 0,
+      "14": 0,
+      "15": 0,
+      "16": 0,
+      "17": 0,
+      "18": 0,
+      "19": 0
+    },
+    "peer_types": {
+      "0": {
+        "is_slow": true,
+        "is_low_cpu": true,
+        "hash_power": 0.0078125
+      },
+      "1": {
+        "is_slow": true,
+        "is_low_cpu": true,
+        "hash_power": 0.0078125
+      },
+      "2": {
+        "is_slow": true,
+        "is_low_cpu": true,
+        "hash_power": 0.0078125
+      },
+      "3": {
+        "is_slow": false,
+        "is_low_cpu": false,
+        "hash_power": 0.078125
+      },
+      "4": {
+        "is_slow": false,
+        "is_low_cpu": false,
+        "hash_power": 0.078125
+      },
+      "5": {
+        "is_slow": false,
+        "is_low_cpu": true,
+        "hash_power": 0.0078125
+      },
+      "6": {
+        "is_slow": false,
+        "is_low_cpu": true,
+        "hash_power": 0.0078125
+      },
+      "7": {
+        "is_slow": false,
+        "is_low_cpu": true,
+        "hash_power": 0.0078125
+      },
+      "8": {
+        "is_slow": false,
+        "is_low_cpu": false,
+        "hash_power": 0.078125
+      },
+      "9": {
+        "is_slow": true,
+        "is_low_cpu": false,
+        "hash_power": 0.078125
+      },
+      "10": {
+        "is_slow": false,
+        "is_low_cpu": false,
+        "hash_power": 0.078125
+      },
+      "11": {
+        "is_slow": false,
+        "is_low_cpu": false,
+        "hash_power": 0.078125
+      },
+      "12": {
+        "is_slow": true,
+        "is_low_cpu": false,
+        "hash_power": 0.078125
+      },
+      "13": {
+        "is_slow": false,
+        "is_low_cpu": true,
+        "hash_power": 0.0078125
+      },
+      "14": {
+        "is_slow": true,
+        "is_low_cpu": false,
+        "hash_power": 0.078125
+      },
+      "15": {
+        "is_slow": false,
+        "is_low_cpu": false,
+        "hash_power": 0.078125
+      },
+      "16": {
+        "is_slow": true,
+        "is_low_cpu": false,
+        "hash_power": 0.078125
+      },
+      "17": {
+        "is_slow": false,
+        "is_low_cpu": true,
+        "hash_power": 0.0078125
+      },
+      "18": {
+        "is_slow": false,
+        "is_low_cpu": false,
+        "hash_power": 0.078125
+      },
+      "19": {
+        "is_slow": true,
+        "is_low_cpu": false,
+        "hash_power": 0.078125
+      }
+    }
+  }
+}
